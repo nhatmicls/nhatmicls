@@ -1,4 +1,5 @@
-### o7 o7 o7
+### Welcome to my GIT ###
+![Welcome picture](https://imgur.com/a/EbOjueT)
 
 <!--
 
