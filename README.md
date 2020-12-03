@@ -1,5 +1,5 @@
 ### Welcome to my GIT ###
-![Welcome picture](/unknown(1).png)
+![Welcome picture](https://imgur.com/a/EbOjueT)
 
 <!--
 
