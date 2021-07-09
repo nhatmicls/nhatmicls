@@ -27,6 +27,9 @@
 <br>
 <br>
 
+[![Micls's github stats](https://github-readme-stats.vercel.app/api?username=nhatmicls&show_icons=true&theme=tokyonight)](https://github.com/dereknguyen269)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmicls&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <img align='left' width="" height="" src="image/jita4-4-crop.png"/>
 
