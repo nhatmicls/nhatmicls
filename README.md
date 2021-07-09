@@ -27,11 +27,14 @@
 <br>
 <br>
 
-[![Micls's github stats](https://github-readme-stats.vercel.app/api?username=nhatmicls&show_icons=true&theme=tokyonight)](https://github.com/nhatmicls)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmicls&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=nhatmicls&color=yellow&label=Profile+views&style=flat-square)
+
+<img width="" height="150" src="https://github-readme-stats.vercel.app/api?username=nhatmicls&show_icons=true&theme=tokyonight"/>
+<img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmicls&layout=compact&theme=tokyonight"/>
 
 ---
-<img align='left' width="" height="" src="image/jita4-4-crop.png"/>
+
+<img width="" height="" src="image/jita4-4-crop.png"/>
 
 <!-- -->
 
