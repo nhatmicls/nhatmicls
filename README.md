@@ -1,42 +1,38 @@
-
 # Hi, I'm Nhat 👋
 
-## About me
+**Embedded Engineer | Hardware Design & Firmware Development**
 
-- 👨 Name: Le Minh Nhat
-- 🌇 Location: Ho Chi Minh City, Viet Nam
-- ⚡ Fun fact: I like play game
+I'm based in Ho Chi Minh City, Vietnam. I design embedded hardware and develop firmware, with experience spanning schematic capture, PCB layout, board bring-up, electrical testing, and production coordination.
 
-### Connect with me
+My work includes vending machine controllers, MDB payment interfaces, and connected devices.
 
-[<img align='left' width="32" height="32" src="icon/facebook.svg"/>][Facebook]
-[<img align='left' width="32" height="32" src="icon/instagram.svg"/>][Instagram]
+## What I work on
 
-<br>
+- **Hardware:** STM32/ESP32-based designs, Altium Designer, schematic capture, PCB layout, and board testing.
+- **Firmware:** C/C++, STM32, device drivers, state machines, fault recovery, and firmware updates.
+- **Interfaces:** UART, SPI, MDB, and Modbus.
+- **Systems and tools:** Python, Raspberry Pi, Linux, Docker, and Git.
+- **Production:** Factory coordination and collaboration with product teams to reduce lead time and improve quality.
 
-### Languages and Tools
+## Selected repositories
 
-<img align='left' width="32" height="32" src="icon/c.svg"/>
-<img align='left' width="32" height="32" src="icon/python.svg"/>
-<img align='left' width="32" height="32" src="icon/visual-studio-code.svg"/>
-<img align='left' width="32" height="32" src="icon/docker.svg"/>
-<img align='left' width="32" height="32" src="icon/git.svg"/>
-<img align='left' width="32" height="32" src="icon/github.svg"/>
-<img align='left' width="" height="32" src="icon/altium.png"/>
+- [NeoPixel_Fxxx](https://github.com/nhatmicls/NeoPixel_Fxxx) — NeoPixel LED library for STM32 microcontrollers.
+- [PIF_Altium_Lib](https://github.com/nhatmicls/PIF_Altium_Lib) — Reusable Altium Designer component library for PCB projects.
 
-<br>
-<br>
+## Currently building
 
-![](https://komarev.com/ghpvc/?username=nhatmicls&color=yellow&label=Profile+views&style=flat-square)
+**Homelab mini server — work in progress**
 
-<img width="" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=nhatmicls&layout=compact&theme=dark#gh-dark-mode-only"/>
-<img width="" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nhatmicls&layout=compact&theme=dark#gh-dark-mode-only"/>
+I'm planning a compact 24U, 10-inch rack for networking equipment, mini PCs, a Raspberry Pi cluster, and NAS storage. My current focus is designing and 3D-printing custom enclosures and mounting parts.
+
+## Beyond engineering
+
+I've mentored interns and taught electronics, embedded system fundamentals, and PCB design through the Pay It Forward Club. Outside work, I enjoy gaming and working on my homelab.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nhatmicls/) · [Facebook](https://www.facebook.com/nhatlemicls/) · [GitHub](https://github.com/nhatmicls)
 
 ---
 
-<img width="" height="" src="image/jita4-4-crop.png"/>
-
-<!-- -->
-
-[Facebook]: https://www.facebook.com/nhatlemicls/
-[Instagram]: https://www.instagram.com/nhatmilcs/
+![Jita 4-4](image/jita4-4-crop.png)
